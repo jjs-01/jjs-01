@@ -1,7 +1,7 @@
 ## Hi! I'm Julia (she/her) 👋
 
 🎓 2nd-year CS + Statistics student at U of T <br>
-🔭 I'm interested in HCI, web dev, and visual computing
+🔭 I'm interested in HCI, web dev, and visual computing <br>
 🌱 I’m currently learning SQL and C
 
 # 💻 Tech Stack:
