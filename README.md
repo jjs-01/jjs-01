@@ -1,7 +1,7 @@
 ## Hi! I'm Julia (she/her) 👋
 
 🎓 2nd-year CS + Statistics student at U of T <br>
-⚡ I have experience in project management and software development for web development and EdTech <br>
+⚡ I have experience in technical project management and software development for EdTech <br>
 🔭 I'm interested in HCI, web dev, and visual computing <br>
 🌱 I’m currently learning SQL and C
 
