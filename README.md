@@ -3,7 +3,7 @@
 🎓 2nd-year CS + Statistics student at U of T <br>
 ⚡ I have experience in technical project management and software development for EdTech <br>
 🔭 I'm interested in HCI, web dev, and visual computing <br>
-🌱 I’m currently learning SQL and C
+🌱 I’m currently learning C++ and React
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
