@@ -14,9 +14,8 @@
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
 ![R](https://img.shields.io/badge/r-red.svg?style=for-the-badge&logo=r&logoColor=white) 
-![LaTeX](https://img.shields.io/badge/latex-005944.svg?style=for-the-badge&logo=latex&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![LaTeX](https://img.shields.io/badge/latex-005944.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ## 📹🎬 Creative Tools/Video Production
