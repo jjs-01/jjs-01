@@ -1,6 +1,6 @@
 # Hi! I'm Julia (she/her) 👋
 
-🎓 2nd-year CS + Statistics student at U of T <br>
+🎓 Entering 3rd-year CS + Stats at U of T <br>
 ⚡ I have experience in technical project management and software development for FinTech & EdTech <br>
 🔭 I'm interested in HCI, graphics, and visual computing <br>
 🌱 I’m currently learning C++ and React
